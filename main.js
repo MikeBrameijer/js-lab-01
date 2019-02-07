@@ -22,4 +22,4 @@ if(name1.length > name2.length && name1.length > name3.length){
     console.log(`${name2} and ${name3} are tied for the longest name`);
 }else{
     console.log(`all three names ${name1}, ${name2}, and ${name3} are tied for the longest name`)
-}
+}//just commenting here so i can practice github
